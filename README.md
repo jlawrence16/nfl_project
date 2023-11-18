@@ -1,6 +1,6 @@
 
 
-NFL Porject_1
+NFL Project_1
 
 Does home-field advantage exist in the NFL? Which other measurable factors play a significant role in the outcome of a football game? 
 
