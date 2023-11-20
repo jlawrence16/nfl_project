@@ -2,7 +2,7 @@
 
 #NFL Project_1
 
-Which measurable factors play a significant role in the outcome of a football game that could be attributed to the idea of "home-field advantage? 
+Which measurable factors play a significant role in the outcome of a football game that could be attributed to the idea of "home-field advantage"? 
 
 This project is an example of manipulating raw data into tangible evidence.  This is done to either support or refute our initial question regarding home-field advantage. Moreover, are there any other factors surrounding a football game that can be measured to show a significant influence over the game’s outcome? Every part of the project is sample code which shows how to do the following:
 
